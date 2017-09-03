@@ -1,2 +1,5 @@
 ls -l
 ls -al
+gfakf
+fhash
+s;d
